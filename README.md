@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XMRHRX
 - 👀 I’m interested in "learning"
-- 🌱 I’m currently learning "how to learning"
-- 💞️ I’m looking to collaborate on "things what fun&cool"
+- 🌱 I’m currently learning "how to learn"
+- 💞️ I’m looking to collaborate on "things fun & cool"
 
 
 <!---
